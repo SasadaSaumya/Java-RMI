@@ -10,7 +10,8 @@ public class RMIServer {
         try {
          Registry registry = LocateRegistry.createRegistry(6666); //use not using port
 
-         registry.bind("message service",new MessageImpl());
+         registry.bind("message_service",new MessageImpl());
+         registry.bind("student_service",new StudentImpl());
 
          System.out.println("RMI Server started...");
         } catch (Exception e) {

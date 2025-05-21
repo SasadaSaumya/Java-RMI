@@ -33,7 +33,7 @@ Java-RMI/
 
 ### ✅ Prerequisites
 
-- Java 8 or above
+- Java 11 or above
 - GlassFish Server (tested with GlassFish 5.x)
 - NetBeans or IntelliJ IDEA
 - RMI Registry port: `6666`
@@ -110,7 +110,7 @@ Hello, Sasanda!
 
 Want a full breakdown? Read my Medium blog here:
 
-👉 [[Your Medium Blog Link](https://sasandasaumya.medium.com/java-rmi-a-simple-guide-with-practical-example-377ea221fb5b)
+👉 [Medium Blog Link](https://sasandasaumya.medium.com/java-rmi-a-simple-guide-with-practical-example-377ea221fb5b)
 
 
 ## 🧾 License
